@@ -58,4 +58,5 @@ int main()
 return 0;
 
     std::cout << "Csokolom tanarur";
+    std::cout << "Legyen szép napja";
 }
