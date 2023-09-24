@@ -57,5 +57,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 return 0;
 
-    std::cout << "Csokolom tanarur" <<;
+    std::cout << "Csokolom tanarur";
 }
